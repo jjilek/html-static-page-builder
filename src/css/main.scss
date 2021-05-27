@@ -1,0 +1,13 @@
+
+.header-tmp{
+  border: 1px solid #ccc;
+  padding: 30px;
+  margin: 30px;
+}
+.header-tmp a.active{
+  font-weight: bold;
+}
+
+@import "./import/main-import.scss";
+
+

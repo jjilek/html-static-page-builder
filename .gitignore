@@ -1,0 +1,9 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+.idea
+.npmrc
+
+# example
+node_modules
+
+# builds
+dist
